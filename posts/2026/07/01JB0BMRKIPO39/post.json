@@ -1,0 +1,11 @@
+{
+  "schema": "gitweak/post@1",
+  "accountId": "did:key:z6MkknoLrXAtHKkKJaRCXEeY6Rv6ShMsBxQy6UHQkocovu7C",
+  "author": "did:key:z6MkknoLrXAtHKkKJaRCXEeY6Rv6ShMsBxQy6UHQkocovu7C",
+  "epoch": 1,
+  "id": "01JB0BMRKIPO39",
+  "createdAt": "2026-07-14T13:00:00Z",
+  "type": "text",
+  "text": "Phase 0B: Git Data API で 1 コミット書込を実証。署名付き feed-head も配置。",
+  "sig": "lsRIOrhhoeuXkePwJ9JmoJxvp9oyDkmVqoPMlsx_uomxJQoiQWgL2XG1IrnsptzVlLcw1Cc7AMLfLOCTiZrQDg"
+}
