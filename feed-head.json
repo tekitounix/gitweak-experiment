@@ -3,11 +3,12 @@
   "accountId": "did:key:z6MkknoLrXAtHKkKJaRCXEeY6Rv6ShMsBxQy6UHQkocovu7C",
   "author": "did:key:z6MkknoLrXAtHKkKJaRCXEeY6Rv6ShMsBxQy6UHQkocovu7C",
   "epoch": 1,
-  "seq": 2,
-  "prev": null,
+  "seq": 3,
+  "prev": "c5932547466e0ad09b2f69da07d29db081c9402dd92bad677be9d651a6a471a6",
   "entries": [
+    "0100MRKJOIWYUGWCUBY8",
     "01JB0BMRKIPO39",
     "01JEXPERIMENT0000000000001"
   ],
-  "sig": "Tw5oXkkfBho1fFre-GuPWc8-vP64G6OuJmLr1NHVHuW8Wad8bondwTgVT-nhi1RsXY2NdMp--y2aek49wMkIAw"
+  "sig": "9o36bmUJRE0dUOWA2AiuvFLhSTZLk7bFlca13Re-NzW2SumWrhuJqOwXw-1vwZE0eRR8ZxV0cUpfmgWgpGK3BQ"
 }
