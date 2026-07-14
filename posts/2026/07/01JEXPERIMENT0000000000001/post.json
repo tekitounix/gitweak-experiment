@@ -1,0 +1,11 @@
+{
+  "schema": "gitweak/post@1",
+  "id": "01JEXPERIMENT0000000000001",
+  "author": "did:key:z6MkknoLrXAtHKkKJaRCXEeY6Rv6ShMsBxQy6UHQkocovu7C",
+  "createdAt": "2026-07-14T12:00:00Z",
+  "sequence": 1,
+  "type": "text",
+  "text": "Gitweak 最初の署名付き投稿。正本はこのリポジトリにあり、鍵で本人性を検証できる。",
+  "body": "content.md",
+  "sig": "6xrlsUvikyn_9wgYh0CCaVzYaXWm17Ej7ERcGLp4gFcObdk0Ssj9-eXw9y4BFAjmVvcBapX-9tf6mgPBHn-SAQ"
+}

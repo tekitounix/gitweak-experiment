@@ -1,0 +1,20 @@
+{
+  "schema": "gitweak/account@1",
+  "accountId": "did:key:z6MkknoLrXAtHKkKJaRCXEeY6Rv6ShMsBxQy6UHQkocovu7C",
+  "sequence": 1,
+  "previous": null,
+  "locations": [
+    {
+      "host": "github.com",
+      "owner": "tekitounix",
+      "repo": "gitweak-experiment",
+      "ref": "refs/heads/main"
+    }
+  ],
+  "profile": {
+    "displayName": "tekitounix (Gitweak 実験)",
+    "bio": "Gitweak PoC の実験用アカウント。設計検証用。"
+  },
+  "alsoKnownAs": [],
+  "sig": "oQ21-hZZw23krLUb1NcndK3y_imD36cL7Dr4fmg9W8ahzpcfzXZyugjGLhhdozBN2oudxzQElRXUw3OgrySuDw"
+}

@@ -1,0 +1,12 @@
+{
+  "schema": "gitweak/pubkey@1",
+  "accountId": "did:key:z6MkknoLrXAtHKkKJaRCXEeY6Rv6ShMsBxQy6UHQkocovu7C",
+  "keys": [
+    {
+      "did": "did:key:z6MkknoLrXAtHKkKJaRCXEeY6Rv6ShMsBxQy6UHQkocovu7C",
+      "alg": "Ed25519",
+      "since": "2026-07-14T00:00:00Z",
+      "revoked": false
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "id": "01JEXPERIMENT0000000000001",
+    "createdAt": "2026-07-14T12:00:00Z",
+    "sequence": 1,
+    "type": "text",
+    "text": "Gitweak 最初の署名付き投稿。正本はこのリポジトリにあり、鍵で本人性を検証できる。",
+    "path": "posts/2026/07/01JEXPERIMENT0000000000001/"
+  }
+]
