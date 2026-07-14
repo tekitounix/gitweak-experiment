@@ -1,0 +1,12 @@
+{
+  "schema": "gitweak/post@1",
+  "accountId": "did:key:z6MkknoLrXAtHKkKJaRCXEeY6Rv6ShMsBxQy6UHQkocovu7C",
+  "author": "did:key:z6MkknoLrXAtHKkKJaRCXEeY6Rv6ShMsBxQy6UHQkocovu7C",
+  "epoch": 1,
+  "id": "0100MRL1EMDIZRM5MF0W",
+  "createdAt": "2026-07-14T19:21:24.678Z",
+  "type": "text",
+  "text": "Web クライアントから実データを取得し、各投稿の署名をブラウザで検証できるようになった。この投稿も CLI companion でローカル署名し GitHub に1コミット。鍵はWebに出さない(§12.4)。",
+  "body": "content.md",
+  "sig": "lxwcZj8sC3R0Tk73gGOK9lX-8emNG9M15KlVRStnS-PLXiiEXQlDXduH_9w6A_stU6E-R3Zrr1W3CfIC0_YLDw"
+}
