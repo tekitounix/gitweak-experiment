@@ -1,0 +1,21 @@
+{
+  "schema": "gitweak/post@1",
+  "accountId": "did:key:z6MkknoLrXAtHKkKJaRCXEeY6Rv6ShMsBxQy6UHQkocovu7C",
+  "author": "did:key:z6MkknoLrXAtHKkKJaRCXEeY6Rv6ShMsBxQy6UHQkocovu7C",
+  "epoch": 1,
+  "id": "01APPMRKLAUQG",
+  "createdAt": "2026-07-14T11:50:35.032Z",
+  "type": "app",
+  "text": "実行可能投稿（canvas アート）。sandbox iframe 内で動く（§11）。",
+  "app": {
+    "entry": "index.html",
+    "size": {
+      "w": 560,
+      "h": 200
+    },
+    "permissions": [
+      "scripts"
+    ]
+  },
+  "sig": "LClqs0BJnt6bKzWZzmiXzO43SWKlag8Vix_tmFKOalB4o7TjPaXQoXwjDR4EVIQsDEOH6RGmGVSwRZNGJnC_DQ"
+}
