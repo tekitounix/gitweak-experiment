@@ -1,0 +1,13 @@
+{
+  "schema": "gitweak/outbox@1",
+  "accountId": "did:key:z6MkknoLrXAtHKkKJaRCXEeY6Rv6ShMsBxQy6UHQkocovu7C",
+  "activities": [
+    {
+      "id": "0100MRKL5SX397BWAM",
+      "seq": 1,
+      "verb": "star",
+      "target": "gitweak:did:key:z6MkknoLrXAtHKkKJaRCXEeY6Rv6ShMsBxQy6UHQkocovu7C:post:01JEXPERIMENT0000000000001",
+      "path": "activities/0100MRKL5SX397BWAM.json"
+    }
+  ]
+}
